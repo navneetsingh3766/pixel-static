@@ -1498,8 +1498,8 @@ label {
 }
 .clip-right {
   background-color: #fff !important;
-  background: url(../images/s-left.png) right top no-repeat;
-  clip-path: polygon(
+  /* background: url(../images/s-left.png) right top no-repeat; */
+  /* clip-path: polygon(
     14% 9%,
     106% 34%,
     100% 100%,
@@ -1516,7 +1516,7 @@ label {
     0% 82%,
     2% 72%,
     -1% 88%
-  ) !important;
+  ) !important; */
 }
 .py-200 {
   padding: 201px 0px !important;
