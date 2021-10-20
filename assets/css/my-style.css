@@ -46,3 +46,11 @@
 .my-pl-0 {
   padding-left: 0px !important;
 }
+.max-width-1800 {
+  max-width: 1800px;
+}
+/* @media (min-width: @screen-lg-min) {
+  .pull-right-lg {
+    float: right;
+  }
+} */
